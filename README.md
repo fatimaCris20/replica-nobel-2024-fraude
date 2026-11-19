@@ -4,7 +4,7 @@ Réplica del artículo:
 
 > Nobel, S. M. N., Sultana, S., Singha, S. P., Chaki, S., Mahi, M. J. N., Jan, T., Barros, A., & Whaiduzzaman, M. (2024). *Unmasking Banking Fraud: Unleashing the Power of Machine Learning and Explainable AI (XAI) on Imbalanced Data*. **Information, 15**(6), 298. https://doi.org/10.3390/info15060298
 
-Autora de la réplica: **Fátima Abregú**, Ingeniería de Sistemas, Universidad de Lima.
+Autora de la réplica: **Fátima Abregú**
 
 ## Objetivo
 
